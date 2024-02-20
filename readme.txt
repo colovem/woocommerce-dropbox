@@ -1,8 +1,8 @@
 === WooCommerce Dropbox ===
 Contributors: vadiemjanssens
 Tags: woocommerce, dropbox, downloadable, products, downloadable product
-Requires at least: 5.0
-Tested up to: 5.8.1
+Requires at least: 7.0
+Tested up to: 8.6.0
 Stable tag: 1.2.5
 Requires PHP: 7.2
 License: GPL v3
@@ -70,6 +70,16 @@ Please refer to [this page](https://wordpress.org/plugins/woocommerce-dropbox/) 
 2. Plugin settings page
 
 == Changelog ==
+
+= 1.3.0 =
+Release date: February 19th, 2024
+
+* Added HPOS support
+* Added Dropins SDK v2 to plugin
+* Added API key shielding for security
+* New structure of functions and classes
+
+* Compatibility with WordPress version 6.4.3 and WooCommerce 8.6.0
 
 = 1.2.5 =
 Release date: September 9th, 2021
