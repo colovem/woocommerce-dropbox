@@ -2,9 +2,9 @@ WooCommerce - Dropbox downloadable products
 ===================
 
 This GitHub repository has been set-up for the WooCommerce - Dropbox extension which can be found [on the official WordPress plugin repository](https://wordpress.org/plugins/woocommerce-dropbox/).
-If you'd like to contribute to this plugin you can send in pull-request, raise an issue or make suggestions for improvement.
+If you'd like to contribute to this plugin you can send in pull-request, raise an issue or make suggestions for improvement. This forked version is compatible with HPOS and WooCommerce 8.6.0.
 
-Bugs
+Bugs (Test version)
 ----
 
 Found bugs? Please [raise an issue here](https://github.com/vjanssens/woocommerce-dropbox/issues).
